@@ -1,8 +1,1 @@
-<p>Hello 大家好</p>
-<p>我是天台 </p>
-<p>很高兴你来到这里, 我是一名区块链博主，如果你也喜欢我的文字，可以添加我的微信号：zhenshigaosiao</p>
-
-<ul>
-  <li> <a href="https://mp.weixin.qq.com/s/Nd2RQKen8ZbBIBFcrlXrfg">这是我最近写的一篇文章|《Staking的自轻与StaFi的迷思》</a> </li>
-  <li> <a href="https://mp.weixin.qq.com/s/Nd2RQKen8ZbBIBFcrlXrfg">如果你喜欢的话，请点一个关注哦</a> </li>
-</ul>
+wget -O soundness.sh https://raw.githubusercontent.com/GzGod/soundness/refs/heads/main/soundness.sh && sed -i 's/\r$//' soundness.sh && chmod +x soundness.sh && ./soundness.sh
